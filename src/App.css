@@ -8,3 +8,22 @@
   aspect-ratio: 1;
   object-fit: cover;
 }
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.button-container{
+  display: flex;
+  gap: 10px;
+  justify-content : flex-end;
+}
+.counter-container{
+  width: min-content;
+  margin: 0 auto;
+  margin-bottom: 36px;
+}
+
+.progress-container{
+  width: 300px;
+}
